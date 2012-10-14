@@ -1,14 +1,19 @@
-Local Distance Voice Services&/Communications
+Long Distance Voice Services&/Communications
 Mobile-Portable Voice Devices (VOIP)&/Communications
 PBX And Voice Messaging&/Communications
 Telephony Handsets&/Communications
 Wireless Paging Services&/Communications
-Environmental monitoring&/Data Center - Data Closet
-Equipment rack - Data Center&/Data Center - Data Closet
-Equipment rack - Data Closet&/Data Center - Data Closet
-Rack Mounted Power Distribution (PDU)&/Data Center - Data Closet
-Server Remote Console&/Data Center - Data Closet
-Video Surveillance&/Data Center - Data Closet
+Large LCD Display greater than 30 inches&/Display-Projectors-TV/Display
+Desktop LCD flat panel&/Display-Projectors-TV/Display
+Imaging Review Display&/Display-Projectors-TV/Display
+LCD Medical Grade 26 inch TV&/Display-Projectors-TV/Television
+Environmental monitoring&/Data Center - Data Closet/Equipment
+Equipment rack - Data Center&/Data Center - Data Closet/Equipment
+Equipment rack - Data Closet&/Data Center - Data Closet/Equipment
+Rack Mounted Power Distribution (PDU)&/Data Center - Data Closet/Equipment
+Server Remote Console&/Data Center - Data Closet/Equipment
+Video Surveillance&/Data Center - Data Closet/Equipment
+Software&/Data Center - Data Closet
 Developer Desktop&/Desktops-Laptops-PDA-Combo Devices-Recorders/Hardware - Computers
 Standard Desktop&/Desktops-Laptops-PDA-Combo Devices-Recorders/Hardware - Computers
 Developer Laptop&/Desktops-Laptops-PDA-Combo Devices-Recorders/Hardware - Computers
@@ -101,7 +106,7 @@ Server Naming Standard&/Servers/General
 Administration and Finance&/Servers/Hardware - Servers
 General Application&/Servers/Hardware - Servers
 General Database&/Servers/Hardware - Servers
-File and Print&/Servers/Hardware - Servers
+File And Print&/Servers/Hardware - Servers
 Hardware VPN Server&/Servers/Hardware - Servers
 GE Carecast EMR&/Servers/Hardware - Servers
 HELP In-Patient&/Servers/Hardware - Servers
@@ -110,8 +115,7 @@ Web - Application&/Servers/Hardware - Servers
 Web - DMZ&/Servers/Hardware - Servers
 Web - HTTP&/Servers/Hardware - Servers
 Web - Server&/Servers/Hardware - Servers
-Web - Terminal Server&/Servers/Hardware - Servers
-Web - Terminal Server&/Servers/Hardware - Servers
+Windows - Terminal Server&/Servers/Hardware - Servers
 Administration and Finance&/Servers/Operating Systems - Servers
 General UNIX&/Servers/Operating Systems - Servers
 Internet - DMZ&/Servers/Operating Systems - Servers
@@ -223,6 +227,7 @@ General&/Servers
 Audio And Web Conferencing&/Communications
 Audio Conferencing&/Communications
 Call Accounting&/Communications
+Call Cards&/Communications
 Cellular Providers&/Communications
 Emergency Notification Solution&/Communications
 Local Voice Services&/Communications
